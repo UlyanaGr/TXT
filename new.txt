@@ -1,0 +1,4 @@
+Full name: Grechikha Ulyana Alexsandrovna, 
+ age: 38, 
+ pet number: 1, 
+ future desirable salary: $1500
